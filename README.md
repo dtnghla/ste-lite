@@ -105,6 +105,10 @@ Do not read the audit as a benchmark. It is a small sample.
 
 The method and the evidence are in [references/audit.md](references/audit.md).
 
+## Author
+
+Do Trung Nghia made ste-lite. He is an AI consultant in Vietnam. See [dotrungnghia.com/ai-consultant](https://dotrungnghia.com/ai-consultant).
+
 ## License
 
 This project uses the Massachusetts Institute of Technology (MIT) license. See [LICENSE](LICENSE).
